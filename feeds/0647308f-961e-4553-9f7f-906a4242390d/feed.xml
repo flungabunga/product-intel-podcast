@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Product Intelligence Digest</title>
     <description>A private daily podcast summarising product craft, competitive intelligence, and market signals for a director-level product leader.</description>
@@ -8,5 +8,17 @@
     <itunes:author>Product Intelligence Agent</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://flungabunga.github.io/product-intel-podcast/feeds/0647308f-961e-4553-9f7f-906a4242390d/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Product Intelligence Digest — March 14, 2026</title>
+      <description>Today's digest covers: Product Craft, Competitive, Market Signals.</description>
+      <pubDate>Fri, 13 Mar 2026 23:59:49 +0000</pubDate>
+      <guid isPermaLink="false">677a82c7-7700-4a8b-9591-2e58385efa9c</guid>
+      <enclosure url="https://github.com/flungabunga/product-intel-podcast/releases/download/audio/2026-03-14_digest.mp3" length="8918181" type="audio/mpeg" />
+      <itunes:duration>00:00:21</itunes:duration>
+      <itunes:summary>Today's digest covers: Product Craft, Competitive, Market Signals.</itunes:summary>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
