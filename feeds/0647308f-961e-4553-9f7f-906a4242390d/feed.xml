@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Product Intelligence Digest</title>
+    <description>A private daily podcast summarising product craft, competitive intelligence, and market signals for a director-level product leader.</description>
+    <language>en</language>
+    <link>https://flungabunga.github.io/product-intel-podcast</link>
+    <itunes:author>Product Intelligence Agent</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://flungabunga.github.io/product-intel-podcast/feeds/0647308f-961e-4553-9f7f-906a4242390d/feed.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
