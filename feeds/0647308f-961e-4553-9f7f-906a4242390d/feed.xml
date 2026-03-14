@@ -20,5 +20,17 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Product Intelligence Digest — March 14, 2026</title>
+      <description>Today's digest covers: Product Craft, Competitive, Market Signals.</description>
+      <pubDate>Sat, 14 Mar 2026 02:37:36 +0000</pubDate>
+      <guid isPermaLink="false">40df27fb-35fa-43c8-b2b5-c3b5ea31a62b</guid>
+      <enclosure url="https://github.com/flungabunga/product-intel-podcast/releases/download/audio/2026-03-14_digest.mp3" length="8513179" type="audio/mpeg" />
+      <itunes:duration>00:00:16</itunes:duration>
+      <itunes:summary>Today's digest covers: Product Craft, Competitive, Market Signals.</itunes:summary>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
