@@ -32,5 +32,17 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Product Intelligence Digest — AI reshaping CPO roles, discovery habits, and operating models</title>
+      <description>Product Intelligence Digest — AI reshaping CPO roles, discovery habits, and operating models</description>
+      <pubDate>Sat, 14 Mar 2026 08:12:30 +0000</pubDate>
+      <guid isPermaLink="false">dfb12272-2e44-4b68-9226-d1037ef6ae3d</guid>
+      <enclosure url="https://github.com/flungabunga/product-intel-podcast/releases/download/audio/2026-03-14_digest.mp3" length="9873057" type="audio/mpeg" />
+      <itunes:duration>00:00:15</itunes:duration>
+      <itunes:summary>Product Intelligence Digest — AI reshaping CPO roles, discovery habits, and operating models</itunes:summary>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
